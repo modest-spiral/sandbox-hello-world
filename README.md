@@ -9,3 +9,4 @@ date: 02072923
 # to do list
 
 - [] list wow
+-[x] the list is doing the list thing wow how rad
